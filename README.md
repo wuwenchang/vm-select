@@ -1,8 +1,7 @@
 ![vm-select](https://img.shields.io/npm/v/vm-select.svg?style=flat) 
 
 # vm-select 
-vue is a Vue 2.x multiple-select components
-
+基于 vue2.x 的下拉多选组件
 ## Installation
 ```
 $ npm install vm-select --save
