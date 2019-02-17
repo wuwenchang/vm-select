@@ -70,9 +70,6 @@ export default {
     labelKey: {
       type: String
     },
-    labelDisabled: {
-      type: [String, Function]
-    },
     customLabel: {
       type: Function,
       default (option, label) {
@@ -181,7 +178,6 @@ export default {
     }
   },
   mounted () {
-    console.log(this.value)
     this.defaultStrings = Object.assign(this.defaultStrings, this.strings)
   },
   methods: {
