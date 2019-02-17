@@ -1,11 +1,8 @@
 ![vm-select](https://img.shields.io/npm/v/vm-select.svg?style=flat) 
 
 # vm-select 
-vue multiple-select components
+vue is a Vue 2.x multiple-select components
 
-demo [live](https://github.com/collins401/vm-select)
-## Description
-vm-select is a Vue 2.x plugin
 ## Installation
 ```
 $ npm install vm-select --save
