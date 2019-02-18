@@ -3,7 +3,7 @@
 # vm-select 
 基于 vue2.x 的下拉多选组件
 
-<div style="width: 325px;">![images](https://github.com/collins401/vm-select/raw/master/docs/1550453663311.png)</div>
+![images](https://github.com/collins401/vm-select/raw/master/docs/1550453663311.png){:height="302px" width="325px"}
 ## Installation
 ```
 $ npm install vm-select --save
