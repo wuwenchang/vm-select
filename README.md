@@ -4,6 +4,7 @@
 基于 vue2.x 的下拉多选组件
 
 <img src="https://github.com/collins401/vm-select/raw/master/docs/1550453663311.png" width="325" alt="img">
+
 ## Installation
 ```
 $ npm install vm-select --save
